@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SimianSilverback
-- 👀 I’m interested in AVR programming
-- 🌱 I’m currently learning AVR hardware and programming
 - 📫 How to reach me x0h74h3mj@mozmail.com
 
 <!---
